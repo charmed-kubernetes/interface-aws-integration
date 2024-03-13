@@ -2,3 +2,6 @@ name: aws-integration
 summary: Interface for connecting to the AWS integrator charm.
 version: 1
 maintainer: Cory Johns <cory.johns@canonical.com>
+ignore:
+- tests
+- ops
